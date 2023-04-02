@@ -1,0 +1,178 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "NopCommerce Valid login Test",
+        "description": "",
+        "id": "nopcommerce-register;nopcommerce-valid-login-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6549043700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Register Link",
+            "match": {
+              "location": "RegisterStepDefinitions.user_click_on_Register_Link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 104031800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User Select the Gender",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Select_the_Gender()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 124012300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Enter First Name",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_First_Name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 134380400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User Enter Last Name",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_Last_Name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 121158200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User Enter DOB  Day",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_DOB_Day()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 57132500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User Enter DOB Month",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_DOB_Month()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 70975700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User Enter DOB Year",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_DOB_Year()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 154596000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User Enter Email",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_Email()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 210727300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User Enter Company Name",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Enter_Company_Name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 101012000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User Select Newsletter",
+            "match": {
+              "location": "RegisterStepDefinitions.user_Select_Newsletter()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 139220000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User enter Password",
+            "match": {
+              "location": "RegisterStepDefinitions.user_enter_Password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 146433300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "User enter Confirm Password",
+            "match": {
+              "location": "RegisterStepDefinitions.user_enter_Confirm_Password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 792236400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User click on Register",
+            "match": {
+              "location": "RegisterStepDefinitions.user_click_on_Register()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "NopCommerce Register",
+    "description": "",
+    "id": "nopcommerce-register",
+    "keyword": "Feature",
+    "uri": "C:/Users/heman/IdeaProjects/BDD/src/test/resources/Features/Register.feature"
+  }
+]
